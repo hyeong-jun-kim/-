@@ -9,6 +9,11 @@
 
 ### 일정
 * 1주차 (3/25~3/31): 자료구조
+* 2주차 (4/1~4/7): 구현
+* 3주차 (4/8~4/21): DFS
+* 4주차 (4/22~4/28): BFS
+* 5주차 (4/29~5/5): Greedy
+* 6주차 (5/6~5/12): Dynamic Programming
 
 ### 문제집
 <details>
@@ -17,6 +22,46 @@
 2. [백준/Silver2] 괄호의 값 - https://www.acmicpc.net/problem/2504 <br>
 3. [프로그래머스/LEVEL2] 위장 - https://school.programmers.co.kr/learn/courses/30/lessons/42578 <br>
 4. [백준/Gold5] 탑 - https://www.acmicpc.net/problem/2493 <br>
+</details>
+
+<details>
+<summary>2주차 - 구현</summary>
+1. [백준/Gold4] 상자 쌓기 - https://www.acmicpc.net/problem/1905 <br>
+2. [백준/Gold4] 톱니바퀴 - https://www.acmicpc.net/problem/14891 <br>
+3. [백준/Gold4] 테트로미노 - https://www.acmicpc.net/problem/14500 <br>
+4. [백준/Silver1] 후보 추천하기 - https://www.acmicpc.net/problem/1713 <br>
+</details>
+
+<details>
+<summary>3주차 - DFS</summary>
+1. [백준/Silver1] 그림 - https://www.acmicpc.net/problem/1926 <br>
+2. [백준/Gold5] 적록색약 - https://www.acmicpc.net/problem/10026 <br>
+3. [백준/Silver2] 너구리 구구 - https://www.acmicpc.net/problem/18126 <br>
+4. [백준/Gold3] 텀 프로젝트 - https://www.acmicpc.net/problem/9466 <br>
+</details>
+
+<details>
+<summary>4주차 - BFS</summary>
+1. [백준/Silver1] 효율적인 해킹 - https://www.acmicpc.net/problem/1325 <br>
+2. [백준/Gold3] 아기상어 - https://www.acmicpc.net/problem/16236 <br>
+3. [백준/Silver2] 점프 점프 - https://www.acmicpc.net/problem/14248 <br>
+4. [백준/Gold4] 연구소 - https://www.acmicpc.net/problem/14502 <br>
+</details>
+
+<details>
+<summary>5주차 - Greedy</summary>
+1. [백준/Silver2] 우리집엔 도서관이 있어 - https://www.acmicpc.net/problem/2872 <br>
+2. [백준/Silver2] 주식 - https://www.acmicpc.net/problem/11501 <br>
+3. [백준/Gold5] A와 B - https://www.acmicpc.net/problem/11501 <br>
+4. [백준/Gold4] 수 묶기 - https://www.acmicpc.net/problem/1744 <br>
+</details>
+
+<details>
+<summary>6주차 - Dynamic Programming</summary>
+1. [백준/Silver3] 2xn 타일링 - https://www.acmicpc.net/problem/11726 <br>
+2. [백준/Silver1] 오르막 수 - https://www.acmicpc.net/problem/11057 <br>
+3. [백준/Silver1] 지름길 - https://www.acmicpc.net/problem/1446 <br>
+4. [백준/Gold3] 파일 합치기 - https://www.acmicpc.net/problem/11066 <br>
 </details>
 
 ### 디렉토리 구조
